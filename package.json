@@ -1,0 +1,21 @@
+{
+  "name": "node-simple-webserver-aws-elastic-beanstalk",
+  "version": "1.0.0",
+  "description": "Simple Node.js server running Fastify, configured for Elastic Beanstalk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webserver",
+    "node server",
+    "fastify server",
+    "example server",
+    "elastic beanstalk node server"
+  ],
+  "author": "Mikael Vesavuori",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.11.0"
+  }
+}
